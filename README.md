@@ -71,15 +71,10 @@ I believe great software is where **logic meets creativity**.
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shazandev404&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazandev404&show_icons=true&theme=react&border_radius=10&hide_title=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shazandev404&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shazandev404&layout=compact&theme=react&border_radius=10)
-
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shazandev404&theme=react&border_radius=10&hide_border=true)
 
 
 
