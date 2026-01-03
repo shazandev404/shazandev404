@@ -72,11 +72,15 @@ I believe great software is where **logic meets creativity**.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shazandev404&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.herokuapp.com/api?username=shazandev404&show_icons=true&theme=react&border_radius=10" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=shazandev404&layout=compact&theme=react&border_radius=10" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shazandev404&theme=react&border_radius=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazandev404&show_icons=true&theme=react&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shazandev404&layout=compact&theme=react&border_radius=10)
+
 </div>
+
 
 <hr/>
 
@@ -100,8 +104,3 @@ If you have an idea — let’s bring it to life.
 
 <br/>
 
-<div align="center">
-<a href="https://ko-fi.com/YOUR_KOFI_ID" target="_blank">
-<img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" />
-</a>
-</div>
