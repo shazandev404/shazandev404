@@ -60,7 +60,7 @@ I believe great software is where **logic meets creativity**.
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 <h4>🔥 Backend & Cloud</h4>
-<img src="https://skillicons.dev/icons?i=firebase,laravel,C#,nodejs" />
+<img src="https://skillicons.dev/icons?i=firebase,laravel,C#,ASP.NETCore" />
 
 <h4>🛠️ Tools</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio" />
