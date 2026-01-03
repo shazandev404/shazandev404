@@ -69,6 +69,14 @@ I believe great software is where **logic meets creativity**.
 
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shazandev404&show_icons=true)
