@@ -72,10 +72,13 @@ I believe great software is where **logic meets creativity**.
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/shazandev404/shazandev404/output/github-contribution-grid-snake.svg"
+  />
+  <br/><br/>
 </div>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
