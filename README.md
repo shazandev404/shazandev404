@@ -54,16 +54,16 @@ I believe great software is where **logic meets creativity**.
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap,tailwind" />
 
 <h4>📱 Mobile Development</h4>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,Reactnative" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,Kotlin" />
 
 <h4>🗄️ Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 <h4>🔥 Backend & Cloud</h4>
-<img src="https://skillicons.dev/icons?i=firebase,laravel,.net,nodejs" />
+<img src="https://skillicons.dev/icons?i=firebase,laravel,C#,nodejs" />
 
 <h4>🛠️ Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio" />
 
 </div>
 
