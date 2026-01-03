@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shazandev404.shazandev404" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hey+there!+👋;I'm+Shazan+Dev;Software+Engineer+from+Sri+Lanka;Building+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hey+there!+👋;I'm+Shazan+#;Software+Engineer;Building+Ideas+into+Reality" />
 </h1>
 
 <h3 align="center">🚀 Creative Software Engineer from Sri Lanka 🇱🇰</h3>
@@ -23,13 +23,13 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:shazan.dev404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mshazan404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://msworld.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
@@ -51,19 +51,19 @@ I believe great software is where **logic meets creativity**.
 <div align="center">
 
 <h4>🌐 Web Technologies</h4>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap,tailwind" />
 
 <h4>📱 Mobile Development</h4>
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,Reactnative" />
 
 <h4>🗄️ Databases</h4>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 <h4>🔥 Backend & Cloud</h4>
-<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=firebase,laravel,.net,nodejs" />
 
 <h4>🛠️ Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vs" />
 
 </div>
 
