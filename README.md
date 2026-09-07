@@ -45,18 +45,7 @@ I believe great software is where **logic meets creativity**.
 </div>
 <hr/>
 <div align="center">
-/*  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/shazandev404/shazandev404/output/github-contribution-grid-snake.svg"
-  />
-  <br/><br/>
-</div>
-<h2 align="center">📊 GitHub Stats</h2>
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shazandev404&show_icons=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shazandev404&layout=compact)
-<hr/>*/
+
 <h2 align="center">🌟 What I’m Passionate About</h2>
 <div align="center">
 ✔ Writing clean, maintainable code  
